@@ -104,7 +104,17 @@ This project focuses on automation testing for the OrangeHRM demo website using 
    - Check the **Console** tab in Eclipse for execution logs.  
    - Generated reports will be available in the `target/cucumber-reports` directory.
   
-### Group Presentation video
+## 🤝 Contribution 
+### Palak Mangal
+Led automation testing efforts using Selenium.
+Developed scripts to automate key functionalities of the website.
+Validated test cases through automated execution.
+### Sahil Khan
+Designed and implemented manual testing strategies.
+Detailed documentation, including the test plan, RTM, and reports.
+
+  
+## Group Presentation video
  https://drive.google.com/file/d/1fpSJ4bRMtshxZVj7vEZrmWpUhOdrx0XU/view?usp=sharing 
 
 
