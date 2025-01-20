@@ -106,12 +106,12 @@ This project focuses on automation testing for the OrangeHRM demo website using 
   
 ## 🤝 Contribution 
 ### Palak Mangal
-Led automation testing efforts using Selenium.
-Developed scripts to automate key functionalities of the website.
-Validated test cases through automated execution.
+- Led automation testing efforts using Selenium. <br/>
+- Developed scripts to automate key functionalities of the website. <br/>
+- Validated test cases through automated execution. <br/>
 ### Sahil Khan
-Designed and implemented manual testing strategies.
-Detailed documentation, including the test plan, RTM, and reports.
+- Designed and implemented manual testing strategies.  <br/>
+- Detailed documentation, including the test plan, RTM, and reports.  <br/>
 
   
 ## Group Presentation video
